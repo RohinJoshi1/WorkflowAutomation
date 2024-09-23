@@ -1,0 +1,7 @@
+/node_modules 
+.env 
+/processor/node_modules 
+/frontend/node_modules
+/primary_backend/node_modules
+/hooks/node_modules
+/message_relay/node_modules
